@@ -1,5 +1,3 @@
-# Alok-Setia_25120119
-Resume website 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +11,6 @@ Resume website
 </head>
 <body>
 
-  <!-- NAV -->
   <nav id="navbar">
     <div class="nav-logo">AS</div>
     <ul class="nav-links">
@@ -25,37 +22,36 @@ Resume website
     </ul>
   </nav>
 
-  <!-- HERO -->
   <header id="hero">
     <div class="hero-inner">
-      <p class="hero-eyebrow">Roll No. 25001323002</p>
+      <p class="hero-eyebrow">Roll No. 25120119</p>
       <h1 class="hero-name">Alok Setia</h1>
-      <p class="hero-title">Management Student &amp; Aspiring Strategist</p>
+      <p class="hero-title">BBA DBE · IIM Bangalore &amp; BSc Mathematics · JC Bose University</p>
       <div class="hero-divider"></div>
-      <p class="hero-tagline">Bridging business acumen with creative thinking.</p>
+      <p class="hero-tagline">Bridging business acumen with analytical thinking.</p>
     </div>
     <div class="hero-scroll-hint">↓</div>
   </header>
 
-  <!-- ABOUT -->
   <section id="about" class="section">
     <div class="section-label">01 — About</div>
     <div class="about-grid">
       <div class="about-text">
         <h2 class="section-heading">Who I Am</h2>
-        <p>I am a management student with a passion for strategy, operations, and entrepreneurship. With a family background in the bakery business (<strong>Setia's Bakery, Faridabad</strong>), I bring a real-world lens to every business case I study.</p>
-        <p>I am currently exploring career paths in <strong>Investment Banking</strong> and <strong>Management Consulting</strong>, while sharpening my technical skills in web development and data analysis.</p>
+        <p>I am a dual-degree student pursuing <strong>BBA DBE at IIM Bangalore</strong> and <strong>BSc Mathematics at JC Bose University YMCA, Faridabad</strong> simultaneously. I bring a unique blend of business strategy and quantitative thinking to everything I do.</p>
+        <p>I am actively engaged in <strong>case competitions</strong>, volunteering, and web development, constantly looking to apply classroom learning to real-world challenges.</p>
       </div>
       <div class="about-card">
         <div class="card-item"><span class="card-label">Location</span><span class="card-value">Faridabad, Haryana</span></div>
-        <div class="card-item"><span class="card-label">Focus</span><span class="card-value">Strategy &amp; Finance</span></div>
-        <div class="card-item"><span class="card-label">Family Venture</span><span class="card-value">Setia's Bakery (Est. 2018)</span></div>
-        <div class="card-item"><span class="card-label">Available</span><span class="card-value">Internship Opportunities</span></div>
+        <div class="card-item"><span class="card-label">Programme 1</span><span class="card-value">BBA DBE · IIM Bangalore</span></div>
+        <div class="card-item"><span class="card-label">Programme 2</span><span class="card-value">BSc Maths · JC Bose Univ.</span></div>
+        <div class="card-item"><span class="card-label">Roll No.</span><span class="card-value">25120119</span></div>
+        <div class="card-item"><span class="card-label">JEE Maths</span><span class="card-value">95 Percentile</span></div>
+        <div class="card-item"><span class="card-label">Available</span><span class="card-value">Internship &amp; Case Comps</span></div>
       </div>
     </div>
   </section>
 
-  <!-- EDUCATION -->
   <section id="education" class="section section-alt">
     <div class="section-label">02 — Education</div>
     <h2 class="section-heading">Academic Background</h2>
@@ -63,61 +59,86 @@ Resume website
       <div class="timeline-item">
         <div class="timeline-dot"></div>
         <div class="timeline-content">
-          <h3>Bachelor of Business Administration</h3>
-          <p class="timeline-sub">Currently Enrolled &nbsp;·&nbsp; 2024–Present</p>
-          <p>Focusing on management principles, operations strategy, and financial analysis. Active participant in case competitions and business clubs.</p>
+          <h3>BBA — Digital Business &amp; Entrepreneurship</h3>
+          <p class="timeline-sub">IIM Bangalore &nbsp;·&nbsp; 2025</p>
+          <p>Pursuing business strategy, entrepreneurship, and digital business management at one of India's premier management institutions. Actively participating in case competitions and business clubs.</p>
         </div>
       </div>
       <div class="timeline-item">
         <div class="timeline-dot"></div>
         <div class="timeline-content">
-          <h3>Senior Secondary (Class XII)</h3>
-          <p class="timeline-sub">Commerce Stream &nbsp;·&nbsp; 2024</p>
-          <p>Completed with a strong foundation in Accountancy, Business Studies, and Economics.</p>
+          <h3>BSc — Mathematics</h3>
+          <p class="timeline-sub">JC Bose University of Science &amp; Technology, YMCA · Faridabad &nbsp;·&nbsp; 2025–Present</p>
+          <p>Pursuing a parallel degree in Mathematics, strengthening analytical and quantitative foundations to complement business studies.</p>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-dot"></div>
+        <div class="timeline-content">
+          <h3>Class XII — Senior Secondary</h3>
+          <p class="timeline-sub">2024 &nbsp;·&nbsp; 78%</p>
+          <p>Completed senior secondary education. Appeared in JEE Main achieving a <strong>95 percentile in Mathematics</strong>.</p>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-dot"></div>
+        <div class="timeline-content">
+          <h3>Class X — Secondary</h3>
+          <p class="timeline-sub">DAV Public School, Sector 14, Faridabad &nbsp;·&nbsp; 2022 &nbsp;·&nbsp; 92%</p>
+          <p>Secured 92% in the All India Secondary School Examination, with distinction in Mathematics and Science.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- EXPERIENCE -->
   <section id="experience" class="section">
-    <div class="section-label">03 — Experience</div>
+    <div class="section-label">03 — Experience &amp; Volunteering</div>
     <h2 class="section-heading">What I've Done</h2>
     <div class="exp-grid">
       <div class="exp-card">
         <div class="exp-icon">🏆</div>
         <h3>Case Competition Participant</h3>
-        <p class="exp-meta">Operations Strategy Track</p>
-        <p>Applied frameworks such as 5 Whys, People-Process-Technology, and Impact vs. Effort Matrix to solve real-world business problems under time pressure.</p>
+        <p class="exp-meta">Multiple Competitions &nbsp;·&nbsp; 2024–Present</p>
+        <p>Participated in several case competitions applying frameworks like 5 Whys, People-Process-Technology, and Impact vs. Effort Matrix to solve real-world business problems under time pressure.</p>
       </div>
       <div class="exp-card">
-        <div class="exp-icon">🎂</div>
-        <h3>Business Associate</h3>
-        <p class="exp-meta">Setia's Bakery · Faridabad · 2018–Present</p>
-        <p>Assisted with operations, marketing, and customer experience for a family-run specialty bakery. Gained hands-on exposure to small business management and brand building.</p>
+        <div class="exp-icon">🛡️</div>
+        <h3>Volunteer</h3>
+        <p class="exp-meta">Cyber Security Suraksha Summit · Velox Media</p>
+        <p>Volunteered at the Cyber Security Suraksha Summit organized by Velox Media, supporting event operations, coordination, and participant engagement at a professional cybersecurity conference.</p>
       </div>
       <div class="exp-card">
         <div class="exp-icon">💻</div>
-        <h3>Web Developer (Personal Projects)</h3>
-        <p class="exp-meta">Self-initiated · 2024–Present</p>
-        <p>Designed and developed premium websites including a luxury brand site for Setia's Bakery using React, Three.js, and GSAP animations.</p>
+        <h3>Web Developer</h3>
+        <p class="exp-meta">Personal Projects &nbsp;·&nbsp; 2024–Present</p>
+        <p>Designed and developed premium websites using React, Three.js, and GSAP. Built a strong foundation in HTML, CSS, and JavaScript through self-directed learning.</p>
       </div>
     </div>
   </section>
 
-  <!-- SKILLS -->
   <section id="skills" class="section section-alt">
     <div class="section-label">04 — Skills</div>
     <h2 class="section-heading">Capabilities</h2>
     <div class="skills-wrapper">
       <div class="skill-group">
-        <h4>Business</h4>
+        <h4>Business &amp; Strategy</h4>
         <div class="skill-tags">
           <span class="tag">Operations Strategy</span>
           <span class="tag">Case Frameworks</span>
           <span class="tag">Financial Analysis</span>
           <span class="tag">Business Development</span>
           <span class="tag">Market Research</span>
+          <span class="tag">Entrepreneurship</span>
+        </div>
+      </div>
+      <div class="skill-group">
+        <h4>Quantitative</h4>
+        <div class="skill-tags">
+          <span class="tag">Mathematics (BSc)</span>
+          <span class="tag">JEE Maths — 95%ile</span>
+          <span class="tag">MATLAB</span>
+          <span class="tag">Statistical Analysis</span>
+          <span class="tag">Differential Equations</span>
         </div>
       </div>
       <div class="skill-group">
@@ -126,29 +147,18 @@ Resume website
           <span class="tag">HTML &amp; CSS</span>
           <span class="tag">JavaScript</span>
           <span class="tag">React</span>
-          <span class="tag">MATLAB</span>
           <span class="tag">Three.js</span>
           <span class="tag">GSAP</span>
-        </div>
-      </div>
-      <div class="skill-group">
-        <h4>Soft Skills</h4>
-        <div class="skill-tags">
-          <span class="tag">Strategic Thinking</span>
-          <span class="tag">Communication</span>
-          <span class="tag">Problem Solving</span>
-          <span class="tag">Entrepreneurship</span>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- CONTACT -->
   <section id="contact" class="section">
     <div class="section-label">05 — Contact</div>
     <div class="contact-center">
       <h2 class="section-heading">Let's Connect</h2>
-      <p class="contact-sub">Open to internship opportunities, collaborations, and conversations about strategy, finance, or design.</p>
+      <p class="contact-sub">Open to internship opportunities, case competitions, and conversations about strategy, finance, or technology.</p>
       <div class="contact-links">
         <a href="mailto:alok@example.com" class="contact-btn">Email Me</a>
         <a href="https://github.com/aloksetia" class="contact-btn contact-btn-outline" target="_blank">GitHub</a>
@@ -156,13 +166,6 @@ Resume website
       </div>
     </div>
   </section>
-
-  <footer id="footer">
-    <p>© 2025 Alok Setia &nbsp;·&nbsp; Roll No. 25001323002 &nbsp;·&nbsp; Designed &amp; Built with CSS</p>
-  </footer>
-
-</body>
-</html>
 /* ============================================================
    ALOK SETIA — RESUME WEBSITE STYLESHEET
    Aesthetic: Refined Editorial / Warm Ivory & Ink
@@ -305,6 +308,23 @@ a { color: inherit; text-decoration: none; }
 @keyframes fade-up {
   from { opacity: 0; transform: translateY(28px); }
   to   { opacity: 1; transform: translateY(0); }
+}
+
+.hero-photo-wrap {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto 28px;
+  border: 3px solid var(--accent);
+  box-shadow: 0 0 0 6px rgba(181, 98, 42, 0.12);
+}
+
+.hero-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
 }
 
 .hero-eyebrow {
@@ -648,3 +668,9 @@ a { color: inherit; text-decoration: none; }
   .hero-name { font-size: 3.5rem; }
 }
 
+  <footer id="footer">
+    <p>© 2025 Alok Setia &nbsp;·&nbsp; Roll No. 25120119 &nbsp;·&nbsp; IIM Bangalore &amp; JC Bose University, YMCA Faridabad</p>
+  </footer>
+
+</body>
+</html>
